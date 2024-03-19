@@ -1,7 +1,7 @@
 ### Bem vindo ao meu perfil!
 ### Comecei a estudar programação em 2023, pretendo me especializar na parte de IA, quero adquirir experiencia por meio de projetos para poder aumentar meu conhecimento.
 
-
+__________________________________________________________________________________________________________________________________
 ### Started to study how to code at the end of 2023, I plan on specializing by the AI part of coding, right now looking to adquire experience by projects, so I can have a good portfolio.
 
 ### Main social midia:
