@@ -12,7 +12,7 @@
 
 
 
-Languages spoken:
-Native Brazilian Portuguese
-Intermediary-Advanced English
-Rookie Mandarin (Still learning)
+### Languages spoken:
+### Native Brazilian Portuguese
+### Intermediary-Advanced English
+### Rookie Mandarin (Still learning)
