@@ -1,6 +1,7 @@
 __________________________________________________________________________________________________________________________________
-### Welcome to my profile! :crown:
+### Welcome to my profile! 👑 🏆
 ### Started to study how to code at the end of 2023, I plan on specializing by the AI part of coding, right now looking to adquire experience by projects, so I can have a good portfolio.
+### OPEN TO MENTORSHIP OPPORTUNITIES!
 
 ### Learning at the moment:
 
