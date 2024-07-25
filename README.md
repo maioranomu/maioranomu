@@ -10,7 +10,6 @@ ________________________________________________________________________________
 ## Languages spoken:
 ### Native Portuguese (Brazilian) 🇧🇷
 ### Advanced English 🇺🇸
-### Rookie Mandarin (Still learning) 🇨🇳
 ## Contact me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_murillom777/)
 
