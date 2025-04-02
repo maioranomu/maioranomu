@@ -1,6 +1,6 @@
 __________________________________________________________________________________________________________________________________
 ### Welcome to my profile! 👑 🏆
-### Started to study how to code at the end of 2023, I plan on specializing by the AI part of coding, right now looking to adquire experience by projects, so I can have a good portfolio.
+### Started to study how to code at the end of 2023, I plan on specializing by the AI section of coding, right now looking to adquire experience by projects, so I can have a good portfolio.
 ## Lenguages known:
 
 <img alt="Phynton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <a href="https://www.codecademy.com/profiles/MurilloMaiorano/certificates/6c152bd262967f8c941c9707ed636bda"> 🐍 Certificate </a>
