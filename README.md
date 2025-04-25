@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C8139&height=120&section=header"/>### Welcome to my profile! 👑 🏆
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maioranomu&layout=compact&theme=dark)](https://github.com/maioranomu)
 ### Started to study how to code at the end of 2023, I plan on specializing by the AI section of coding, right now looking to adquire experience by projects, so I can have a good portfolio.
 ## Lenguages known:
 
@@ -14,4 +15,4 @@
 
 <a href="mailto:youremail@email.com"> :e-mail: E-mail </a>
 __________________________________________________________________________________________________________________________________
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maioranomu&layout=compact&theme=dark)](https://github.com/maioranomu)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C8139&height=120&section=footer"/>
