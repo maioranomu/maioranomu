@@ -1,5 +1,4 @@
-__________________________________________________________________________________________________________________________________
-### Welcome to my profile! 👑 🏆
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C8139&height=120&section=header"/>### Welcome to my profile! 👑 🏆
 ### Started to study how to code at the end of 2023, I plan on specializing by the AI section of coding, right now looking to adquire experience by projects, so I can have a good portfolio.
 ## Lenguages known:
 
