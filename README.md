@@ -14,4 +14,4 @@
 
 <a href="mailto:youremail@email.com"> :e-mail: E-mail </a>
 __________________________________________________________________________________________________________________________________
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maioranomu&layout=compact&hide_progress=true&theme=dark)](https://github.com/maioranomu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maioranomu&layout=compact&theme=dark)](https://github.com/maioranomu)
