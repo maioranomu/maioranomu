@@ -55,3 +55,5 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F03FC&height=120&section=footer"/>
+<a href="https://pokemondb.net/pokedex/gengar"><img src="https://img.pokemondb.net/sprites/sword-shield/normal/gengar.png" alt="Gengar"></a>
+<a href="https://pokemondb.net/pokedex/kommo-o"><img src="https://img.pokemondb.net/sprites/sword-shield/normal/kommo-o.png" alt="Kommo-o"></a>
